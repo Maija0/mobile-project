@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Mobile Project</string>
+    
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$3.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh peaches from Georgia</item>
+        <item>Cherry tomatoes from Ohio</item>
+        <item>Yellow squash from California</item>
+    </string-array>
 </resources>

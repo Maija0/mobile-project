@@ -25,6 +25,15 @@ public class LauncherActivity extends AppCompatActivity {
 
             }
         });
+        Button thirdActivityBtn = (Button)findViewById(R.id.thirdActivityBtn);
+        thirdActivityBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent startIntent = new Intent(getApplicationContext(), ListActivity.class);
+                startActivity(startIntent);
+            }
+        });
+
         Button googleBtn = (Button)findViewById(R.id.googleBtn);
         googleBtn.setOnClickListener(new View.OnClickListener() {
 
