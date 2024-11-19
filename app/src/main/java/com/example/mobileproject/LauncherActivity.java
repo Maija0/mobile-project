@@ -48,6 +48,16 @@ public class LauncherActivity extends AppCompatActivity {
                 }
             }
         });
+
+        Button calculatorActivityBtn = (Button)findViewById(R.id.calculatorActivityBtn);
+        calculatorActivityBtn.setOnClickListener(new View.OnClickListener() {
+              @Override
+              public void onClick(View view) {
+                  Intent startIntent = new Intent(getApplicationContext(), MainActivity.class);
+                  startActivity(startIntent);
+              }
+        });
+
     }
 
 }
