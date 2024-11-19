@@ -41,7 +41,7 @@
             android:name=".SecondActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".CalculatorActivity"
             android:exported="true" />
         <activity
             android:name=".ListActivity"

@@ -53,7 +53,7 @@ public class LauncherActivity extends AppCompatActivity {
         calculatorActivityBtn.setOnClickListener(new View.OnClickListener() {
               @Override
               public void onClick(View view) {
-                  Intent startIntent = new Intent(getApplicationContext(), MainActivity.class);
+                  Intent startIntent = new Intent(getApplicationContext(), CalculatorActivity.class);
                   startActivity(startIntent);
               }
         });
