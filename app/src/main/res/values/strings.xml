@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Mobile Project</string>
-    
+
     <string-array name="items">
         <item>peach</item>
         <item>tomato</item>
@@ -16,6 +16,7 @@
     <string-array name="descriptions">
         <item>Fresh peaches from Georgia</item>
         <item>Cherry tomatoes from Ohio</item>
-        <item>Yellow squash from California</item>
+        <item>Yellow squash from <California></California></item>
     </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
 </resources>
