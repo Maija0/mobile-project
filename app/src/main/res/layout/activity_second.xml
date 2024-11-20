@@ -35,7 +35,7 @@
     <Switch
         android:id="@+id/colorSwitch"
         android:layout_width="193dp"
-        android:layout_height="41dp"
+        android:layout_height="49dp"
         android:text="Dark Mode"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
