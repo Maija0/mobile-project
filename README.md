@@ -1,3 +1,4 @@
-The project can be run by opening the repository in Android Studio and using the emulator or connecting a android device. 
+Made By: Maija Lehtosaari
 
-Link to the project running:
+The project can be run by opening the repository in Android Studio and using the emulator or connecting a android device. 
+Link to the project running: https://youtu.be/RQMS5MpZml4
